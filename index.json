@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "redbaron",
+  "versions": [
+    {
+      "commit": "9b4a1825d160269815ca7bc90f55fff8a5e76e29",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:59:34.011939+00:00"
+    }
+  ]
+}
