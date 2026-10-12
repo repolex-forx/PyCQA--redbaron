@@ -1,0 +1,7 @@
+[2026-10-12T22:57:42Z] === AST ITERATION 1 START | repo=PyCQA/redbaron sha=9b4a1825 ===
+[2026-10-12T22:57:42Z] [iter=1] PHASE START: ast repo=PyCQA/redbaron sha=9b4a1825
+[2026-10-12T22:57:42Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T22:58:36Z] [iter=1] AST chunks built count=1 triples=457812
+[2026-10-12T22:58:36Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/9b4a1825d160269815ca7bc90f55fff8a5e76e29/.complete
+[2026-10-12T22:58:36Z] [iter=1] PHASE END: ast elapsed_s=54 elapsed_min=0.9
+[2026-10-12T22:58:36Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

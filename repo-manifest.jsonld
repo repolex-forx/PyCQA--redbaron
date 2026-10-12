@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/redbaron/commit/9b4a1825d160269815ca7bc90f55fff8a5e76e29",
       "git:hexsha": "9b4a1825d160269815ca7bc90f55fff8a5e76e29",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/redbaron/commit/e4faffc36da525882f182def7b9626356766d4a9",
